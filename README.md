@@ -1,6 +1,6 @@
 # Hackintosh-Asus-Prime-Z370-P
-<img src="https://github.com/prashantpaddune/Hackintosh-Asus-Prime-Z370-P/blob/master/Screenshot%202020-08-11%20at%209.33.21%20PM.png?raw=true">
-Opencore(0.6.0) configuration on Asus Prime Z370-P
+<img src="https://raw.githubusercontent.com/prashantpaddune/Hackintosh-Asus-Prime-Z370-P/master/Screenshot%202020-10-23%20at%202.26.15%20PM.png">
+Opencore(0.6.2) configuration on Asus Prime Z370-P
 
 ## Hardware
 
@@ -8,7 +8,7 @@ Opencore(0.6.0) configuration on Asus Prime Z370-P
 * CPU: Intel i5-8400 Coffee Lake 8 Gen
 * GPU: Intel® UHD 630
 * Chipset: Intel® 300 Series Chipsets
-* Memory: Adata 8Gb 2400Mhz Ram
+* Memory: Adata 8x2 16Gb 2400Mhz Ram
 * LAN: Realtek® RTL8111H, 1 x Gigabit LAN Controller(s)
 * Audio: Realtek® ALC887 8-Channel High Definition Audio CODEC
 * Storage:
@@ -27,6 +27,7 @@ Opencore(0.6.0) configuration on Asus Prime Z370-P
 ## Tested
 
 * MacOS Catalina 10.15.6
+* MacOS Catalina 10.15.7
 
 ## Attention
 
