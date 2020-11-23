@@ -1,6 +1,6 @@
 # Hackintosh-Asus-Prime-Z370-P
 <img src="https://raw.githubusercontent.com/prashantpaddune/Hackintosh-Asus-Prime-Z370-P/master/Screenshot%202020-10-23%20at%202.26.15%20PM.png">
-Opencore(0.6.2) configuration on Asus Prime Z370-P
+Opencore(0.6.3) configuration on Asus Prime Z370-P
 
 ## Hardware
 
@@ -28,6 +28,7 @@ Opencore(0.6.2) configuration on Asus Prime Z370-P
 
 * MacOS Catalina 10.15.6
 * MacOS Catalina 10.15.7
+* MacOS Big Sur 11.0.1
 
 ## Attention
 
