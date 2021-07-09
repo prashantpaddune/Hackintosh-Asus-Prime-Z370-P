@@ -1,6 +1,6 @@
 # Hackintosh-Asus-Prime-Z370-P
 <img src="https://github.com/prashantpaddune/Hackintosh-Asus-Prime-Z370-P/blob/master/Screenshot%202021-07-09%20at%2010.26.44%20PM.png?raw=true">
-Opencore(0.6.5) configuration on Asus Prime Z370-P
+Opencore(0.7.0) configuration on Asus Prime Z370-P
 
 ## Hardware
 
