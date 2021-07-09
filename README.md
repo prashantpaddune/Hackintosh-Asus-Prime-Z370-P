@@ -1,5 +1,5 @@
 # Hackintosh-Asus-Prime-Z370-P
-<img src="https://github.com/prashantpaddune/Hackintosh-Asus-Prime-Z370-P/blob/86838ac47c41b4606e214ad99f1519319e6fc62d/Screenshot%202021-01-10%20at%204.24.00%20PM.png?raw=true">
+<img src="https://github.com/prashantpaddune/Hackintosh-Asus-Prime-Z370-P/blob/master/Screenshot%202021-07-09%20at%2010.26.44%20PM.png?raw=true">
 Opencore(0.6.5) configuration on Asus Prime Z370-P
 
 ## Hardware
@@ -14,7 +14,7 @@ Opencore(0.6.5) configuration on Asus Prime Z370-P
 * Storage:
   * Seagate BarraCuda 1 TB Internal Hard Drive HDD
   * A-DATA Ultimate SU650 3D NAND 120GB Solid State Drive
-  * Crucial MX500 250GB 3D NAND M.2 2280 Internal SSD
+  * Crucial P5 250GB 3D NAND NVMe Internal SSD
 * USB:
   * 8 x USB 3.1 Gen 1 port(s) (4 at back panel, +blue)
   * 6 x USB 2.0 port(s) (2 at back panel)
@@ -30,6 +30,7 @@ Opencore(0.6.5) configuration on Asus Prime Z370-P
 * MacOS Catalina 10.15.7
 * MacOS Big Sur 11.0.1
 * MacOS Big Sur 11.1
+* MacOS Big Sur 11.2.3
 
 ## Attention
 
